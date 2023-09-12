@@ -1,0 +1,7 @@
+setup.py
+beautiful_cli_with_click.egg-info/PKG-INFO
+beautiful_cli_with_click.egg-info/SOURCES.txt
+beautiful_cli_with_click.egg-info/dependency_links.txt
+beautiful_cli_with_click.egg-info/entry_points.txt
+beautiful_cli_with_click.egg-info/requires.txt
+beautiful_cli_with_click.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+
+
+        [console_scripts]
+        ones_cli = init:hello
+    
